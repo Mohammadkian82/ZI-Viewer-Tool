@@ -8,7 +8,7 @@ Instagram is one of the most popular social media platforms, but its privacy set
 - No need for downloads or installations.
 - Quick and simple user interface.
 - Free to use.
-
+- 
 **Pros:**
 ✔️ Fast and responsive website.  
 ✔️ No registration required.  
